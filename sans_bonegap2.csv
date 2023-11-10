@@ -287,4 +287,5 @@
 0.5,SansAnimation,Idle,,,,,
 0,JMPNZ,149,$Pool,,,,
 0,CombatZoneSpeed,500,,,,,
+0,DamagePlayer,-100,0,,,,,,
 2,EndAttack,,,,,,
